@@ -1,0 +1,17 @@
+.title{
+    background: coral;
+    font-family: Arial;
+    font-size: 35px;
+    color: darkblue;
+}
+.subtitles{
+    font-family: Arial;
+    font-size: 25px;
+    background: bisque;
+    color: darkgreen;
+}
+.imagen{
+    width: 600px;
+    height: 600px;
+
+}

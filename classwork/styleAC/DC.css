@@ -1,0 +1,22 @@
+.name{
+    font-size: 80px;
+    text-align: center;
+}
+.text{
+    font-size: 20px;
+}
+.subtitle{
+    font-size: 35px;
+}
+.h3{
+    font-size: 25px;
+}
+.list{
+    font-size: 20px;
+}
+.img{
+    width: 1600px;
+    height: 800px;
+    display:block;
+    margin:auto;
+}
