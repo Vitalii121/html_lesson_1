@@ -1,0 +1,37 @@
+
+.title{
+    font-family: Arial;
+    font-size: 60px;
+    text-align: center;
+    background: #882727;
+    color: #f9e9d1;
+}
+.paragraph1{
+    background: #bebebf;
+    font-size: 30px;
+    padding: 30px;
+    margin-bottom: 0;
+
+}
+.paragraph2{
+    font-size: 30px;
+    background: #6294eb;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.green-box{
+    width: 350px;
+    height: 350px;
+    background: #6ab967;
+    margin-bottom: 0;
+}
+
+.silver-box{
+    width: 350px;
+    height: 350px;
+    background: #8785ab;
+    border-radius: 30px;
+    margin-bottom: 40px;
+}
